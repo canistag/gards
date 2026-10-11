@@ -1,7 +1,8 @@
 # Childcare Cost & Affordability Dashboard
 ![Family](https://github.com/canistag/childcare/blob/main/family%20visualizer.png)
+
 ## Description 
-A dashboard that visualizes the cost of childcare across all fifty states of the US. 
+A dashboard that visualizes the cost of supporting a family across all fifty states of the US. 
 ## The Question
 - How much money is needed annually to comfortably have a family in each state?
 - What are the most and least expensive places to have a family?
