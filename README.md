@@ -2,7 +2,7 @@
 ![Family](https://github.com/canistag/childcare/blob/main/family%20visualizer.png)
 ## Description 
 A dashboard that visualizes the cost of childcare across all fifty states of the US. 
-## Question
+## The Question
 - How much money is needed annually to comfortably have a family in each state?
 - What are the most and least expensive places to have a family?
 ## Assumptions
@@ -18,7 +18,9 @@ VCR by State was simple enough to put into a table after data was gathered from 
 
 <details>
 <summary>VCR by State</summary>
+
 TLDR: Maine and New Hampshire tie for the safest at 100.1 per 100,000 people. Alaska as the most dangerous at 724.1 per 100,000 people. National average is 327.6.
+
 | State | VCR |
 |---|---|
 | Alabama | 359.9 |
@@ -72,16 +74,20 @@ TLDR: Maine and New Hampshire tie for the safest at 100.1 per 100,000 people. Al
 | West Virginia | 248.8 |
 | Wisconsin | 278.5 |
 | Wyoming | 203.4 |
+
 </details>
+
 
 The School Score had to be calculated by scanning the ![National Report Card website.](https://www.nationsreportcard.gov/profiles/stateprofile?sfj=NP&chort=1&sub=MAT&sj=&st=MN&year=2024R3) A limitation was that the 2024 data only covers reading and math up to 8th grade. 
 The data was summed and averaged in the following way:
 Subject Score = (grade 8 score + grade 4 score)/2
 School Score = (subject score a + subject score b)/2
+
 <details>
 <summary>School Score by State</summary>
+  
 TLDR: Massachusetts had the highest score at 255.5 and New Mexico had the lowest score at 231.5. National average is 246.
-```markdown
+
 | State | Score |
 |---|---|
 | Alabama | 240.25 |
@@ -135,5 +141,12 @@ TLDR: Massachusetts had the highest score at 255.5 and New Mexico had the lowest
 | West Virginia | 236.5 |
 | Wisconsin | 249.25 |
 | Wyoming | 250.75 |
-```
 </details>
+
+### Sources
+
+## Findings
+
+## Requirements
+
+## How to Run Locally
