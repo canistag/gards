@@ -8,7 +8,6 @@
 > 
 > 1. house; 2. family; household; 3. yard
 
-A dashboard that visualizes the cost of supporting a family across all fifty states of the US. 
 
 ![Family](https://github.com/canistag/gards/blob/main/family%20visualizer.png) 
 
