@@ -1,11 +1,30 @@
-# Childcare Cost & Affordability Dashboard
-![Family](https://github.com/canistag/childcare/blob/main/family%20visualizer.png)
+# GARDS: A Family Planning Visualization Dashboard
 
-## Description 
+> ### Gards
+> 
+> Language: Gothic
+> 
+> Part of speech: noun
+> 
+> 1. house; 2. family; household; 3. yard
+
 A dashboard that visualizes the cost of supporting a family across all fifty states of the US. 
-## The Question
-- How much money is needed annually to comfortably have a family in each state?
-- What are the most and least expensive places to have a family?
+
+![Family](https://github.com/canistag/gards/blob/main/family%20visualizer.png) 
+
+## Question: Where is the most cost effective place to have a family?
+
+States that met the criteria: Kentucky, Iowa, North Dakota, Ohio, Nebraska, Indiana, Illinois, Wyoming, Wisconsin, Pennsylvania. Have a kid or two here!
+
+The states that were deemed the most cost effective places to raise a family were considered areas that met these conditions:
+
+- Below the national average in crime (327.6)
+- Above the national average for school score (246)
+- Below the national average for expenses (83661.64)
+
+# Question: What are the most and least expensive places to have a family that meet the national criteria?
+
+If you have a lot of money, Massachusetts. If you don't, Kentucky.
 
 ## Assumptions
 An assumption I have made is that the average family consists of two parents, two children, a dog, and a cat. In addition to this, each family will have a 3 bedroom 2 bathroom house, and a 401k fund for each parent. For the children, each will have a Roth IRA savings account, and a 529 college savings account. Each of these funds and or savings accounts will be a recurring expense of $100 each per month ($1200 annually). 
@@ -16,9 +35,6 @@ When creating this dashboard, I wanted to make sure of three things:
 2. My children would be well educated (School Score by State)
 3. My family would not be stressed about money (Money Leftover After Expenses)
 
-
-## Findings
-These states are the best places to raise a family at these rates
 
 ## Data
 ### Methodology
@@ -341,12 +357,9 @@ The most time consuming and variable value was most likely cost of living. In or
   
 
 ### Sources
-https://smartasset.com/data-studies/cost-raise-child-state-2025
-https://finance.yahoo.com/news/cost-own-3-bedroom-home-221034952.html?guccounter=1
-https://www.self.inc/info/house-prices-by-state/#3-bedroom
-https://petcostplanner.com/cost-by-state/
-https://grocerymentor.com/budget/grocery-cost-by-state-calculator/
-https://www.move.org/utility-bills-101/#Ranking_table
-https://www.calculator.net/mortgage-calculator.html?chouseprice=327%2C513&cdownpayment=20&cdownpaymentunit=p&cloanterm=30&cinterestrate=7.373&cstartmonth=9&cstartyear=2026&cpropertytaxes=1.2&cpropertytaxesunit=p&chomeins=1%2C500&chomeinsunit=d&cpmi=0&cpmiunit=d&choa=0&choaunit=d&cothercost=4%2C000&cothercostunit=d&cmop=0&cptinc=0&chiinc=0&choainc=0&cocinc=0&cexma=0&cexmsm=9&cexmsy=2026&cexya=0&cexysm=9&cexysy=2026&cexoa=0&cexosm=9&cexosy=2026&caot=0&xa1=0&xm1=9&xy1=2026&xa2=0&xm2=9&xy2=2026&xa3=0&xm3=9&xy3=2026&xa4=0&xm4=9&xy4=2026&xa5=0&xm5=9&xy5=2026&xa6=0&xm6=9&xy6=2026&xa7=0&xm7=9&xy7=2026&xa8=0&xm8=9&xy8=2026&xa9=0&xm9=9&xy9=2026&xa10=0&xm10=9&xy10=2026&csbw=1&printit=0&x=Calculate
-
-
+- [Cost to Raise a Child](https://smartasset.com/data-studies/cost-raise-child-state-2025)
+- [Cost of 3 Bedroom House](https://finance.yahoo.com/news/cost-own-3-bedroom-home-221034952.html?guccounter=1)
+- [Pet Cost](https://petcostplanner.com/cost-by-state/)
+- [Grocery Cost](https://grocerymentor.com/budget/grocery-cost-by-state-calculator/)
+- [Utility Cost](https://www.move.org/utility-bills-101/#Ranking_table)
+- [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html?chouseprice=327%2C513&cdownpayment=20&cdownpaymentunit=p&cloanterm=30&cinterestrate=7.373&cstartmonth=9&cstartyear=2026&cpropertytaxes=1.2&cpropertytaxesunit=p&chomeins=1%2C500&chomeinsunit=d&cpmi=0&cpmiunit=d&choa=0&choaunit=d&cothercost=4%2C000&cothercostunit=d&cmop=0&cptinc=0&chiinc=0&choainc=0&cocinc=0&cexma=0&cexmsm=9&cexmsy=2026&cexya=0&cexysm=9&cexysy=2026&cexoa=0&cexosm=9&cexosy=2026&caot=0&xa1=0&xm1=9&xy1=2026&xa2=0&xm2=9&xy2=2026&xa3=0&xm3=9&xy3=2026&xa4=0&xm4=9&xy4=2026&xa5=0&xm5=9&xy5=2026&xa6=0&xm6=9&xy6=2026&xa7=0&xm7=9&xy7=2026&xa8=0&xm8=9&xy8=2026&xa9=0&xm9=9&xy9=2026&xa10=0&xm10=9&xy10=2026&csbw=1&printit=0&x=Calculate)
