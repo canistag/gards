@@ -16,6 +16,10 @@ When creating this dashboard, I wanted to make sure of three things:
 2. My children would be well educated (School Score by State)
 3. My family would not be stressed about money (Money Leftover After Expenses)
 
+
+## Findings
+These states are the best places to raise a family at these rates
+
 ## Data
 ### Methodology
 VCR by State was simple enough to put into a table after data was gathered from ![CSG Justice Center](https://projects.csgjusticecenter.org/tools-for-states-to-address-crime/50-state-crime-data/).
@@ -337,9 +341,12 @@ The most time consuming and variable value was most likely cost of living. In or
   
 
 ### Sources
+https://smartasset.com/data-studies/cost-raise-child-state-2025
+https://finance.yahoo.com/news/cost-own-3-bedroom-home-221034952.html?guccounter=1
+https://www.self.inc/info/house-prices-by-state/#3-bedroom
+https://petcostplanner.com/cost-by-state/
+https://grocerymentor.com/budget/grocery-cost-by-state-calculator/
+https://www.move.org/utility-bills-101/#Ranking_table
+https://www.calculator.net/mortgage-calculator.html?chouseprice=327%2C513&cdownpayment=20&cdownpaymentunit=p&cloanterm=30&cinterestrate=7.373&cstartmonth=9&cstartyear=2026&cpropertytaxes=1.2&cpropertytaxesunit=p&chomeins=1%2C500&chomeinsunit=d&cpmi=0&cpmiunit=d&choa=0&choaunit=d&cothercost=4%2C000&cothercostunit=d&cmop=0&cptinc=0&chiinc=0&choainc=0&cocinc=0&cexma=0&cexmsm=9&cexmsy=2026&cexya=0&cexysm=9&cexysy=2026&cexoa=0&cexosm=9&cexosy=2026&caot=0&xa1=0&xm1=9&xy1=2026&xa2=0&xm2=9&xy2=2026&xa3=0&xm3=9&xy3=2026&xa4=0&xm4=9&xy4=2026&xa5=0&xm5=9&xy5=2026&xa6=0&xm6=9&xy6=2026&xa7=0&xm7=9&xy7=2026&xa8=0&xm8=9&xy8=2026&xa9=0&xm9=9&xy9=2026&xa10=0&xm10=9&xy10=2026&csbw=1&printit=0&x=Calculate
 
-## Findings
 
-## Requirements
-
-## How to Run Locally
