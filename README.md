@@ -1,19 +1,23 @@
+<img src="https://github.com/canistag/gards/blob/main/family%20visualizer.png" align="left" width="100" height="100" style="margin-right: 15px;">
+
 # GARDS: A Family Planning Visualization Dashboard
 
-> ### Gards
+> ### GARDS
 > 
 > Language: Gothic
 > 
 > Part of speech: noun
 > 
 > 1. house; 2. family; household; 3. yard
+>
 
+A dashboard that visualizes the cost of supporting a family across all fifty states of the US.
+<br clear="left"/>
 
-![Family](https://github.com/canistag/gards/blob/main/family%20visualizer.png) 
+## Question: 
+Where is the most cost effective place to have a family? What about the most and least expensive states to have a family, given the criteria?
 
-## Question: Where is the most cost effective place to have a family?
-
-States that met the criteria: Kentucky, Iowa, North Dakota, Ohio, Nebraska, Indiana, Illinois, Wyoming, Wisconsin, Pennsylvania. Have a kid or two here!
+## Key Findings:
 
 The states that were deemed the most cost effective places to raise a family were considered areas that met these conditions:
 
@@ -21,10 +25,24 @@ The states that were deemed the most cost effective places to raise a family wer
 - Above the national average for school score (246)
 - Below the national average for expenses (83661.64)
 
-# Question: What are the most and least expensive places to have a family that meet the national criteria?
+States that met the criteria (Have a kid or two here!):
+- Kentucky
+- Iowa
+- North Dakota
+- Ohio
+- Nebraska
+- Indiana
+- Illinois
+- Pennsylvania
+- Wisconsin
+- Wyoming
 
-If you have a lot of money, Massachusetts. If you don't, Kentucky.
+If you don't have a lot of money, Kentucky is the place to be. If you got some pocket change, go for Pennsylvania. If you wanna shoot for the stars, head for Harvard in Massachusetts! 
 
+## More Below
+<details>
+  <summary>Click to reveal</summary>
+  
 ## Assumptions
 An assumption I have made is that the average family consists of two parents, two children, a dog, and a cat. In addition to this, each family will have a 3 bedroom 2 bathroom house, and a 401k fund for each parent. For the children, each will have a Roth IRA savings account, and a 529 college savings account. Each of these funds and or savings accounts will be a recurring expense of $100 each per month ($1200 annually). 
 
@@ -362,3 +380,5 @@ The most time consuming and variable value was most likely cost of living. In or
 - [Grocery Cost](https://grocerymentor.com/budget/grocery-cost-by-state-calculator/)
 - [Utility Cost](https://www.move.org/utility-bills-101/#Ranking_table)
 - [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html?chouseprice=327%2C513&cdownpayment=20&cdownpaymentunit=p&cloanterm=30&cinterestrate=7.373&cstartmonth=9&cstartyear=2026&cpropertytaxes=1.2&cpropertytaxesunit=p&chomeins=1%2C500&chomeinsunit=d&cpmi=0&cpmiunit=d&choa=0&choaunit=d&cothercost=4%2C000&cothercostunit=d&cmop=0&cptinc=0&chiinc=0&choainc=0&cocinc=0&cexma=0&cexmsm=9&cexmsy=2026&cexya=0&cexysm=9&cexysy=2026&cexoa=0&cexosm=9&cexosy=2026&caot=0&xa1=0&xm1=9&xy1=2026&xa2=0&xm2=9&xy2=2026&xa3=0&xm3=9&xy3=2026&xa4=0&xm4=9&xy4=2026&xa5=0&xm5=9&xy5=2026&xa6=0&xm6=9&xy6=2026&xa7=0&xm7=9&xy7=2026&xa8=0&xm8=9&xy8=2026&xa9=0&xm9=9&xy9=2026&xa10=0&xm10=9&xy10=2026&csbw=1&printit=0&x=Calculate)
+
+</details>
