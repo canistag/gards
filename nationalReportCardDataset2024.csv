@@ -1,0 +1,201 @@
+subject,grade,state,score
+math,4,Alabama,236
+math,4,Alaska,226
+math,4,Arizona,232
+math,4,Arkansas,230
+math,4,California,233
+math,4,Colorado,239
+math,4,Connecticut,239
+math,4,Delaware,233
+math,4,Florida,243
+math,4,Georgia,236
+math,4,Hawaii,239
+math,4,Idaho,238
+math,4,Illinois,236
+math,4,Indiana,240
+math,4,Iowa,237
+math,4,Kansas,237
+math,4,Kentucky,238
+math,4,Louisiana,235
+math,4,Maine,233
+math,4,Maryland,234
+math,4,Massachusetts,246
+math,4,Michigan,235
+math,4,Minnesota,241
+math,4,Mississippi,239
+math,4,Missouri,235
+math,4,Montana,238
+math,4,Nebraska,238
+math,4,Nevada,233
+math,4,New Hampshire,242
+math,4,New Jersey,240
+math,4,New Mexico,224
+math,4,New York,234
+math,4,North Carolina,239
+math,4,North Dakota,241
+math,4,Ohio,239
+math,4,Oklahoma,233
+math,4,Oregon,229
+math,4,Pennsylvania,238
+math,4,Rhode Island,237
+math,4,South Carolina,238
+math,4,South Dakota,240
+math,4,Tennessee,240
+math,4,Texas,241
+math,4,Utah,242
+math,4,Vermont,235
+math,4,Virginia,238
+math,4,Washington,238
+math,4,West Virginia,232
+math,4,Wisconsin,239
+math,4,Wyoming,243
+math,8,Alabama,262
+math,8,Alaska,264
+math,8,Arizona,270
+math,8,Arkansas,266
+math,8,California,269
+math,8,Colorado,278
+math,8,Connecticut,277
+math,8,Delaware,263
+math,8,Florida,267
+math,8,Georgia,269
+math,8,Hawaii,270
+math,8,Idaho,278
+math,8,Illinois,277
+math,8,Indiana,278
+math,8,Iowa,275
+math,8,Kansas,274
+math,8,Kentucky,271
+math,8,Louisiana,267
+math,8,Maine,273
+math,8,Maryland,268
+math,8,Massachusetts,283
+math,8,Michigan,270
+math,8,Minnesota,282
+math,8,Mississippi,269
+math,8,Missouri,270
+math,8,Montana,279
+math,8,Nebraska,280
+math,8,Nevada,265
+math,8,New Hampshire,280
+math,8,New Jersey,282
+math,8,New Mexico,256
+math,8,New York,271
+math,8,North Carolina,276
+math,8,North Dakota,280
+math,8,Ohio,279
+math,8,Oklahoma,264
+math,8,Oregon,268
+math,8,Pennsylvania,276
+math,8,Rhode Island,270
+math,8,South Carolina,268
+math,8,South Dakota,281
+math,8,Tennessee,276
+math,8,Texas,269
+math,8,Utah,282
+math,8,Vermont,276
+math,8,Virginia,275
+math,8,Washington,274
+math,8,West Virginia,261
+math,8,Wisconsin,283
+math,8,Wyoming,278
+reading,4,Alabama,213
+reading,4,Alaska,202
+reading,4,Arizona,208
+reading,4,Arkansas,210
+reading,4,California,212
+reading,4,Colorado,221
+reading,4,Connecticut,219
+reading,4,Delaware,210
+reading,4,Florida,218
+reading,4,Georgia,214
+reading,4,Hawaii,216
+reading,4,Idaho,216
+reading,4,Illinois,214
+reading,4,Indiana,220
+reading,4,Iowa,215
+reading,4,Kansas,213
+reading,4,Kentucky,218
+reading,4,Louisiana,216
+reading,4,Maine,210
+reading,4,Maryland,216
+reading,4,Massachusetts,225
+reading,4,Michigan,209
+reading,4,Minnesota,214
+reading,4,Mississippi,219
+reading,4,Missouri,212
+reading,4,Montana,217
+reading,4,Nebraska,212
+reading,4,Nevada,213
+reading,4,New Hampshire,221
+reading,4,New Jersey,222
+reading,4,New Mexico,201
+reading,4,New York,215
+reading,4,North Carolina,213
+reading,4,North Dakota,216
+reading,4,Ohio,216
+reading,4,Oklahoma,207
+reading,4,Oregon,207
+reading,4,Pennsylvania,216
+reading,4,Rhode Island,216
+reading,4,South Carolina,215
+reading,4,South Dakota,214
+reading,4,Tennessee,215
+reading,4,Texas,212
+reading,4,Utah,219
+reading,4,Vermont,213
+reading,4,Virginia,214
+reading,4,Washington,216
+reading,4,West Virginia,206
+reading,4,Wisconsin,215
+reading,4,Wyoming,222
+reading,8,Alabama,250
+reading,8,Alaska,246
+reading,8,Arizona,254
+reading,8,Arkansas,255
+reading,8,California,254
+reading,8,Colorado,265
+reading,8,Connecticut,263
+reading,8,Delaware,249
+reading,8,Florida,253
+reading,8,Georgia,259
+reading,8,Hawaii,257
+reading,8,Idaho,261
+reading,8,Illinois,262
+reading,8,Indiana,262
+reading,8,Iowa,261
+reading,8,Kansas,255
+reading,8,Kentucky,258
+reading,8,Louisiana,257
+reading,8,Maine,255
+reading,8,Maryland,258
+reading,8,Massachusetts,268
+reading,8,Michigan,255
+reading,8,Minnesota,260
+reading,8,Mississippi,253
+reading,8,Missouri,255
+reading,8,Montana,261
+reading,8,Nebraska,256
+reading,8,Nevada,253
+reading,8,New Hampshire,264
+reading,8,New Jersey,266
+reading,8,New Mexico,245
+reading,8,New York,257
+reading,8,North Carolina,255
+reading,8,North Dakota,257
+reading,8,Ohio,260
+reading,8,Oklahoma,249
+reading,8,Oregon,255
+reading,8,Pennsylvania,259
+reading,8,Rhode Island,258
+reading,8,South Carolina,254
+reading,8,South Dakota,260
+reading,8,Tennessee,259
+reading,8,Texas,252
+reading,8,Utah,261
+reading,8,Vermont,257
+reading,8,Virginia,256
+reading,8,Washington,259
+reading,8,West Virginia,247
+reading,8,Wisconsin,260
+reading,8,Wyoming,260
