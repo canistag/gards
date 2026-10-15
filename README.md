@@ -24,43 +24,13 @@ The states that were deemed the most cost effective places to raise a family wer
 - Below the national average in crime (327.6)
 - Above the national average for school score (246)
 - Below the national average for expenses ($86,462)
+- Above the national average for unemployment (3.85%)
 
-States that met the strict criteria (Definitely have a kid or two here!):
+States that met the criteria (Definitely have a kid or two here!):
+<img width="1286" height="202" alt="image" src="https://github.com/user-attachments/assets/b0c5938a-f60a-4edc-886f-d144a54fb1e6" />
 
-<img alt="image" src="https://github.com/user-attachments/assets/f836f36e-13e3-43b9-9942-6ded69f6b96b"  style="width: 50%; height: auto;" />
-<details> <summary>Accessible Data</summary>
-- Kentucky
-- Iowa
-- North Dakota
-- Nebraska
-- Pennsylvania
-- Wyoming
-</details>
-
-This list felt quite restrictive, so I opted for a weighted composite score as well. This included school score, violent crime rate, and the average cost of having a family all compiled into one value. The following states met the looser criteria of a z-score higher than 0.5. All of these states have good schools, but vary on how expensive the cost of living is (the majority being expensive!) and the safety (falling between safe and moderate).
-
-<img alt="image" src="https://github.com/user-attachments/assets/4e69aafb-d588-453c-9b43-a4182cab7ed4" style="width: 50%; height: auto;" />
-<details> <summary>Accessible Data</summary>
-- Connecticut
-- Idaho
-- Indiana
-- Massachusetts
-- Minnesota
-- New Hampshire
-- New Jersey
-- North Dakota
-- Utah
-- Wisconsin
-- Wyoming
-</details>
-
-With both these scores in mind, the overall winner is Wyoming with a composite weighted score of 0.89521124!
-
-<img src="https://github.com/user-attachments/assets/9ac75f48-4451-4624-9a30-d92af7f1800e" style="width: 50%; height: auto;" />
-
-<img src=https://i.etsystatic.com/16126862/r/il/8dce21/1318167298/il_fullxfull.1318167298_tm15.jpg alt="Wyoming Postcard" style="width: 50%; height: auto;" >
-
-North Dakota is the runner up with a composite weighted score of 0.54459612.
+Overall winner is North Dakota with a composite score of 0.9619969801!
+<img width="687" height="387" alt="image" src="https://github.com/user-attachments/assets/0c405bf1-a2f9-4ddd-a387-81cb57c35a7e" />
 
 
 
@@ -70,6 +40,7 @@ Individual findings include:
 - Massachusetts is the highest in cost to raise a child at 44k, Mississippi is the lowest at 19k. National is 27K.
 - Hawaii is the highest for both pets. North Dakota is the cheapest. Dog national is $1,351. Cat national is $1,820. Summed together the national average to have both is $3,171.
 - The lowest groceries, utility, and house payment cost is Mississippi with 35k, highest cost Hawaii at 89k. National is 44k.
+- California has the highest unemployment rate at 5.1%. South Dakota has the lowest with 2%.
 
 ### Relational Findings
 An additional sheet was added to calculate correlation between school score, crime rate, and cost of living.
