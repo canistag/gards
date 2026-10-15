@@ -71,6 +71,18 @@ Individual findings include:
 - Hawaii is the highest for both pets. North Dakota is the cheapest. Dog national is $1,351. Cat national is $1,820. Summed together the national average to have both is $3,171.
 - The lowest groceries, utility, and house payment cost is Mississippi with 35k, highest cost Hawaii at 89k. National is 44k.
 
+### Relational Findings
+An additional sheet was added to calculate correlation between school score, crime rate, and cost of living.
+
+|         | School | Cost  | Crime |
+|---------|--------|-------|-------|
+| School  | -      | 0.25  | -0.55 |
+| Cost    | 0.25   | -     | -0.15 |
+| Crime   | -0.55  | -0.15 | -     |
+
+Our biggest indicator is the inverse effect that school and crime have on eachother at -0.55. Low school score means higher crime rate; high school score means lower crime rates.
+Cost appears to have little bearing on crime and school scores, indicating there may be another variable at play. 
+
 ## More Below
 <details>
   <summary>Click to reveal data and more!</summary>
@@ -108,6 +120,7 @@ The z-score was calculated with a standard formula of (score-mean)/(standard dev
 The national scores were placed in their own sheet to prevent errors in the data visualization tool. Facts_costs was getting crowded, so I opted to keep costs and metrics separate; same with the z-scores. Dim_states was built for ease of viewing and access.
 
 ## Sources
+Last Updated 10-15-2026
 - [CSG Justice Center](https://projects.csgjusticecenter.org/tools-for-states-to-address-crime/50-state-crime-data/)
 - [National Report Card](https://www.nationsreportcard.gov/profiles/stateprofile?sfj=NP&chort=1&sub=MAT&sj=&st=MN&year=2024R3)
 - [Cost to Raise a Child](https://smartasset.com/data-studies/cost-raise-child-state-2025)
@@ -118,8 +131,7 @@ The national scores were placed in their own sheet to prevent errors in the data
 - [Mortgage Calculator](https://www.calculator.net/mortgage-calculator.html?chouseprice=327%2C513&cdownpayment=20&cdownpaymentunit=p&cloanterm=30&cinterestrate=7.373&cstartmonth=9&cstartyear=2026&cpropertytaxes=1.2&cpropertytaxesunit=p&chomeins=1%2C500&chomeinsunit=d&cpmi=0&cpmiunit=d&choa=0&choaunit=d&cothercost=4%2C000&cothercostunit=d&cmop=0&cptinc=0&chiinc=0&choainc=0&cocinc=0&cexma=0&cexmsm=9&cexmsy=2026&cexya=0&cexysm=9&cexysy=2026&cexoa=0&cexosm=9&cexosy=2026&caot=0&xa1=0&xm1=9&xy1=2026&xa2=0&xm2=9&xy2=2026&xa3=0&xm3=9&xy3=2026&xa4=0&xm4=9&xy4=2026&xa5=0&xm5=9&xy5=2026&xa6=0&xm6=9&xy6=2026&xa7=0&xm7=9&xy7=2026&xa8=0&xm8=9&xy8=2026&xa9=0&xm9=9&xy9=2026&xa10=0&xm10=9&xy10=2026&csbw=1&printit=0&x=Calculate)
 
 ## Future Ideas
-- Political affiliation of state
-- Correlations between cost, political affiliation, safety, and school score
+- Correlations between cost, safety, and school score
 - Adjustable values
 - What regions have the most states that are good for families?
 
